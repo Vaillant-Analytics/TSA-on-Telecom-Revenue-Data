@@ -1,10 +1,8 @@
 ---
-title: "TSA on Telecom Revenue Data - Markdown"
+title: "TSA on Telecom Revenue Data"
 author: "Alexander Vaillant"
-date: "9/4/2021"
-output:
-  html_document: default
-  pdf_document: default
+date: "9/7/2021"
+output: pdf_document
 ---
 
 ```{r setup, include=FALSE}
